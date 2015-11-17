@@ -1,3 +1,3 @@
-ÕâĞ©³ÌĞòÓÃÀ´±éÀú¸÷ÖÖwindowsÏÂµÄ´°¿ÚÀà£¬½ø³Ì£¬¾ä±ú ÒÔ¼° Ä³¸ö½ø³ÌµÄÏß³ÌºÍÄ£¿é
+These cute programs are designed to enumerate windows classes,processes,handles under Windows and modules,thread in a process.
 
-Thses cute programs are designed to enumerate windows classes,processes,handles under Windows and modules,thread in a process.
+ä¸€å¨éå†ç”¨çš„ç¨‹åºè€Œå·²ï¼Œæ¯”è¾ƒåŠçš„æ˜¯é‚£ä¸ªå¯ä»¥éå†å†…æ ¸å¯¹è±¡çš„ç¨‹åº~è¯·è‡ªè¡Œå¯»æ‰¾ã€‚
